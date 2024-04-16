@@ -21,8 +21,8 @@ from modules.helpers import find_default_profile_directory, critical_error_log, 
 
 try:
     ch_options = webdriver.ChromeOptions()
-    ch_options.binary_location="C:\\Users\\bhanu\\Downloads\\chrome-win64\\chrome.exe"
-    driver_path="C:\\Users\\bhanu\\Downloads\\chromedriver-win64\\chromedriver.exe"
+    ch_options.binary_location=cwd+"\\chrome-win64\\chrome.exe"
+    driver_path=cwd+"\\chromedriver-win64\\chromedriver.exe"
     service_option = webdriver.ChromeService(executable_path=driver_path) #, service=Service(executable_path="C:\\Program Files\\Google\\Chrome\\chromedriver-win64\\chromedriver.exe"))
     driver= webdriver.Chrome(options=ch_options, service=service_option)
     driver.maximize_window()
