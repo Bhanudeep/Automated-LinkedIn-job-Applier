@@ -44,8 +44,8 @@ use_resume_generator = False    # True or False ,   This feature may only work w
 # ----------------------------------------------  AUTO APPLIER  ---------------------------------------------- #
 
 # Login Credentials for LinkedIn
-username = "bhanudeepsimhadry@gmail.com" 
-password = "Mafia@bhanu6"
+username = "bhanudeepsimhadri@gmail.com" 
+password = "password"
 
 # These Sentences are Searched in LinkedIn
 #"Software Engineer","Software Developer","Python Developer","Full Stack Developer", "Junior Software Developer", "Junior Software Engineer", "Junior Full Stack Developer",New Grad Software Developer", "New Grad Software Engineer","Software Developement Engineer 1", "SDE 1","Backend Engineer","Backend Developer","Flask Developer","Django Developer
