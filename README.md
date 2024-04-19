@@ -9,6 +9,9 @@
 - Also had hiccup with creating logs folder, therefore i have bundled it as well, instead of writing code to create it.
 - This application is able to answer questions asked in the beggining but raises an exception when trying to answer questions in later stages of application.
 - Your contribution to resolve this issue can help many others.
+## To install
+- Clone the repo, pip install selenium, and other dependencies mentioned below.
+- Do not download chrome or chrome drive again, i have bundled it so not required.
 # LinkedIn Auto Job Applier
 This is an web scraping bot that automates the process of job applications on LinkedIn. It customizes your resume based on the collected job information, such as skills required, description, about company, etc. Answers all questions and applies to the job. 
 
