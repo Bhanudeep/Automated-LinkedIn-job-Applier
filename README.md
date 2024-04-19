@@ -11,7 +11,7 @@
 - Your contribution to resolve this issue can help many others.
 ## To install
 - Clone the repo, pip install selenium, and other dependencies mentioned below.
-- Do not download chrome or chrome drive again, i have bundled it so not required.
+- Do not download chrome or chrome driver again, i have bundled it so not required.
 # LinkedIn Auto Job Applier
 This is an web scraping bot that automates the process of job applications on LinkedIn. It customizes your resume based on the collected job information, such as skills required, description, about company, etc. Answers all questions and applies to the job. 
 
