@@ -1,4 +1,4 @@
-# Full Credit goes to Sai Vignesh Golla
+#  Credit goes to Sai Vignesh Golla
 ## My contributions:
 - I have bundled necessary chrome and chrome driver dependencies and changed code accordingly.
 - As chrome removed automating stable chrome release, we must perform different steps to achieve the same with chrome.
