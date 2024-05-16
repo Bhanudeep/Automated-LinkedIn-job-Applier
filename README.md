@@ -1,4 +1,4 @@
-#  Credit goes to Sai Vignesh Golla
+
 ## My contributions:
 - I have bundled necessary chrome and chrome driver dependencies and changed code accordingly.
 - As chrome removed automating stable chrome release, we must perform different steps to achieve the same with chrome.
@@ -123,14 +123,11 @@ Thank you for being part of this journey, and remember that together, we can mak
 With heartfelt appreciation,
 Sai Vignesh Golla
 
-You can connect and reach me out at:
-1. LinkedIn  :  https://www.linkedin.com/in/saivigneshgolla/
-2. Email     :  saivigneshgolla@outlook.com
 
 
 ## License
 
-Copyright (C) 2024 Sai Vignesh Golla  <saivigneshgolla@outlook.com>
+
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
