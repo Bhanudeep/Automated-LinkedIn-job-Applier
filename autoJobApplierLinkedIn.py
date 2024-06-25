@@ -1,8 +1,8 @@
 '''
-Author:     Sai Vignesh Golla
-LinkedIn:   https://www.linkedin.com/in/saivigneshgolla/
+Author:     Bhanudeep Simhadri
+LinkedIn:   https://www.linkedin.com/in/bhanudeepsimhadri/
 
-Copyright (C) 2024 Sai Vignesh Golla
+Copyright (C) 2024 Bhanudeep Simhadri
 
 License:    GNU Affero General Public License
             https://www.gnu.org/licenses/agpl-3.0.en.html
@@ -706,7 +706,7 @@ def main():
             "Obstacles are those frightful things you see when you take your eyes off your goal. - Henry Ford",
             "The only limit to our realization of tomorrow will be our doubts of today. - Franklin D. Roosevelt"
             ])
-        msg = f"{quote}\n\n\nBest regards,\nSai Vignesh Golla\nhttps://www.linkedin.com/in/saivigneshgolla/"
+        msg = f"{quote}\n\n\nBest regards,\nSai Bhanudeep Simhadri\nhttps://www.linkedin.com/in/bhanudeepsimhadri/"
         pyautogui.alert(msg, "Exiting..")
         print_lg(msg,"Closing the browser...")
         if tabs_count >= 10:
